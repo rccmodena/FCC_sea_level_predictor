@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+"""
+Author: Rudi César Comiotto Modena
+Email: rudi.modena@gmail.com
+"""
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from scipy.stats import linregress
